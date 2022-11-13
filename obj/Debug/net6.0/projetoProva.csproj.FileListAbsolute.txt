@@ -1,0 +1,65 @@
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.csproj.AssemblyReference.cache
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.AssemblyInfoInputs.cache
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.AssemblyInfo.cs
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\appsettings.json
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\projetoProva.staticwebassets.runtime.json
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\projetoProva.exe
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\projetoProva.deps.json
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\projetoProva.runtimeconfig.json
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\projetoProva.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\projetoProva.pdb
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\scopedcss\bundle\projetoProva.styles.css
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\refint\projetoProva.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.pdb
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.genruntimeconfig.cache
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\ref\projetoProva.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\Humanizer.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaop\Downloads\aps2\projetoProva\obj\Debug\net6.0\projetoProva.csproj.CopyComplete
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.csproj.AssemblyReference.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.AssemblyInfoInputs.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.AssemblyInfo.cs
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.csproj.CoreCompileInputs.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\refint\projetoProva.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.pdb
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\appsettings.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\projetoProva.staticwebassets.runtime.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\projetoProva.exe
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\projetoProva.deps.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\projetoProva.runtimeconfig.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\projetoProva.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\projetoProva.pdb
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\staticwebassets\msbuild.projetoProva.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\staticwebassets\msbuild.build.projetoProva.props
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.projetoProva.props
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.projetoProva.props
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\scopedcss\bundle\projetoProva.styles.css
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.csproj.CopyComplete
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\projetoProva.genruntimeconfig.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software II\api_videogame\projetoProva\obj\Debug\net6.0\ref\projetoProva.dll
