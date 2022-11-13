@@ -1,7 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using projetoProva.Models;
-using System;
-
 
 namespace projetoProva.Controllers
 {
@@ -25,7 +23,8 @@ namespace projetoProva.Controllers
         [HttpGet]
         public List<Videogame> ListarPorFabricante(string fabricante)
         {
-            return contexto.Videogames.Where(p => p.Fabricante == fabricante).Select
+            List<Videogame> sql;
+            sql = contexto.Videogames.Where(p => p.Fabricante == fabricante).Select
             (
                 p => new Videogame
                 {
@@ -36,13 +35,17 @@ namespace projetoProva.Controllers
                     Ano = p.Ano
                 }
             ).ToList();
+
+            return sql;
         }
 
 
         [HttpGet]
         public List<Videogame> Visualizar(int id)
         {
-            return contexto.Videogames.Where(p => p.Id == id).Select
+            List<Videogame> sql;
+
+            sql =  contexto.Videogames.Where(p => p.Id == id).Select
             (
                 p => new Videogame
                 {
@@ -53,6 +56,8 @@ namespace projetoProva.Controllers
                     Ano = p.Ano
                 }
             ).ToList();
+
+            return sql;
         }
 
         [HttpPost]
